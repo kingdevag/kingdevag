@@ -21,7 +21,7 @@ ___
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-![Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username={kingdevag}&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingdevag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### **Another thing to do is Edit Photos and Videos, I usually do it in Photoshop and After Effects**
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
