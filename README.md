@@ -9,8 +9,6 @@
 
 ![KingDevAG GitHub stats](https://github-readme-stats.vercel.app/api?username=kingdevag&show_icons=true&theme=dracula)
 
-___
-
 ### **🐍My favorite programming language is Python**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ### **Although I also like💻:**
@@ -21,8 +19,6 @@ ___
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingdevag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### **Another thing to do is Edit Photos and Videos, I usually do it in Photoshop and After Effects**
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![AF](https://aleen42.github.io/badges/src/after_effects.svg)
@@ -31,11 +27,9 @@ ___
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### **I commonly use the Visual Studio Code editor** 
-![VS Code](https://www.jasoft.org/Blog/image.axd?picture=VSCode_logo.png)
 
 ### **The operating system in which I program is windows**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-___
 
 ### **I like it:**
 - **🎮Playing VideoGames**
