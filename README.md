@@ -60,7 +60,9 @@
     <a href="https://github.com/search?q=user%3Akingdevag+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
     
-    <h2 align="center">🗄️ Databases and cloud hosting</h2>
+<h2 align="center"> 
+    🗄️ Databases and cloud hosting
+</h2>
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
